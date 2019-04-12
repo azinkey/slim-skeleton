@@ -54,3 +54,31 @@ Start by creating the composer.json file:
 
 }
 ```
+
+```sh
+$ composer install
+```
+
+### Packages
+
+Need to say Thanks.
+
+| Plugin | README |
+| ------ | ------ |
+| slim | [http://www.slimframework.com/docs] |
+| csrf | [] |
+| flash | [] |
+| php-view | [] |
+| twig-view | [] |
+| monolog | [] |
+| valitron | [] |
+| slim-session | [] |
+| slim-config | [] |
+| slim-facades | [] |
+| slim3-mailer | [] |
+| slim-jwt-auth | [] |
+| i/database | [] |
+| i/pagination | [] |
+| i/filesystem | [] |
+
+
